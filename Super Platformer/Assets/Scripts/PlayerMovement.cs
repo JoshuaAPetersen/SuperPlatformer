@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -11,10 +12,13 @@ public class PlayerMovement : MonoBehaviour
     public float runSpeed = 40f;
     bool jump = false;
     bool crouch = false;
+    [SerializeField] GameObject die;
+    Transform player;
     // Start is called before the first frame update
     void Start()
     {
-        
+        player.transform.position = this.transform.position;
+        player.transform.rotation = this.transform.rotation;
     }
 
     // Update is called once per frame
@@ -48,5 +52,11 @@ public class PlayerMovement : MonoBehaviour
         // Move holds (Direction, Crouch, Jump)
         controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump);
         jump = false;
+    }
+    void OnTriggerEnter2D(Collider2D other) {
+        if(other.tag == "Enemy"){
+            Destroy(gameObject);
+            Instantiate(gameObject, player.position, player.rotation);
+        }
     }
 }

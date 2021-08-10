@@ -14,9 +14,9 @@ public class AcornFly : MonoBehaviour
     void OnTriggerEnter2D(Collider2D hitInfo) {
         EnemyHp enemy = hitInfo.GetComponent<EnemyHp>();
         if(enemy != null){
+            Destroy(gameObject);
             enemy.TakeDamage(damage);
         }
-        Destroy(gameObject);
     }
 
 }
