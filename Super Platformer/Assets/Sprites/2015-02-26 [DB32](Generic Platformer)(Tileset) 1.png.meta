@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: 71ffab74d54a27d47a6f54b8e6cba98b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5059051037984886107
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_0
+  - first:
+      213: 7935131761141633745
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_1
+  - first:
+      213: -2546817332051385394
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_2
+  - first:
+      213: 3421549512022149302
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_3
+  - first:
+      213: -3123212680743144
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_4
+  - first:
+      213: 6979207603955183775
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_5
+  - first:
+      213: -4557967601735118141
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_6
+  - first:
+      213: 7345858767027596840
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_7
+  - first:
+      213: 4002421834992686974
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_8
+  - first:
+      213: 6276297183654757255
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_9
+  - first:
+      213: -1041099065598960318
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_10
+  - first:
+      213: -6133809814479383391
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_11
+  - first:
+      213: -1776882751545821630
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_12
+  - first:
+      213: 3690712066031719636
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_13
+  - first:
+      213: 510757885319723083
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_14
+  - first:
+      213: 4849275802680843910
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_15
+  - first:
+      213: 5246213310846225241
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_16
+  - first:
+      213: 7419771227248713199
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_17
+  - first:
+      213: 8753465811389739769
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_18
+  - first:
+      213: 1752706293035057647
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_19
+  - first:
+      213: 2381419772122401650
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_20
+  - first:
+      213: -4313260528772309716
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_21
+  - first:
+      213: 2432321871205620816
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_23
+  - first:
+      213: -825068008517247765
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_24
+  - first:
+      213: -2880418240416766538
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_25
+  - first:
+      213: 1796631720154468834
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_26
+  - first:
+      213: 806414637485748139
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_27
+  - first:
+      213: -1692734482637381704
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_28
+  - first:
+      213: -6940734983166642848
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_29
+  - first:
+      213: -9012722668637186876
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_30
+  - first:
+      213: -679310240558416935
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_31
+  - first:
+      213: -2015157479290580509
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_32
+  - first:
+      213: -3041495250099411073
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_33
+  - first:
+      213: -651332014774378926
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_34
+  - first:
+      213: -8688738528564519654
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_35
+  - first:
+      213: 3249550103629508905
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_36
+  - first:
+      213: 7994286749075420268
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_37
+  - first:
+      213: 4342731562395686140
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_38
+  - first:
+      213: -1903049257935013491
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_39
+  - first:
+      213: -8749410536672266171
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_40
+  - first:
+      213: -68187826872352936
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_42
+  - first:
+      213: 8386097978909219938
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_43
+  - first:
+      213: -2584375259873398830
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_44
+  - first:
+      213: -1643388292794151864
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_45
+  - first:
+      213: 3356521619068967180
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_46
+  - first:
+      213: -901062914162077864
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_51
+  - first:
+      213: -426810998146905134
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_57
+  - first:
+      213: 2738011311610895276
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_60
+  - first:
+      213: -4916891948497457476
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_62
+  - first:
+      213: -3700020536973280981
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_68
+  - first:
+      213: 4710825231563992637
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_69
+  - first:
+      213: 6156671278186029519
+    second: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d09a37d1c553640800000000000000
+      internalID: 5059051037984886107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d254cc6b404f1e60800000000000000
+      internalID: 7935131761141633745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3e44f4123e7acd0800000000000000
+      internalID: -2546817332051385394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8cd7d2729cb7f20800000000000000
+      internalID: 3421549512022149302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8173b916477e4fff0800000000000000
+      internalID: -3123212680743144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90347f96502bd060800000000000000
+      internalID: 6979207603955183775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2d6d88d98deb0c0800000000000000
+      internalID: -4557967601735118141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e6edae0abb1f560800000000000000
+      internalID: 7345858767027596840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77910404757b8730800000000000000
+      internalID: 4002421834992686974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783c6880903e91750800000000000000
+      internalID: 6276297183654757255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d9bf27ae54d81f0800000000000000
+      internalID: -1041099065598960318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4d628d87450eaa0800000000000000
+      internalID: -6133809814479383391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246b7924d8e3757e0800000000000000
+      internalID: -1776882751545821630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d49110e11b083330800000000000000
+      internalID: 3690712066031719636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4836b03793961700800000000000000
+      internalID: 510757885319723083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e50b466a61c4340800000000000000
+      internalID: 4849275802680843910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b4ae8e53b4ec840800000000000000
+      internalID: 5246213310846225241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedd2da9e9258f660800000000000000
+      internalID: 7419771227248713199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2796117ce8a7970800000000000000
+      internalID: 8753465811389739769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe142f7561dd25810800000000000000
+      internalID: 1752706293035057647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b827a5aa08c0120800000000000000
+      internalID: 2381419772122401650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d10d6d6683424c0800000000000000
+      internalID: -4313260528772309716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cdf98dad751c120800000000000000
+      internalID: 2432321871205620816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec5ac48405cc84f0800000000000000
+      internalID: -825068008517247765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b527671fd2b608d0800000000000000
+      internalID: -2880418240416766538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e19100d70beee810800000000000000
+      internalID: 1796631720154468834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf630917d5f03b00800000000000000
+      internalID: 806414637485748139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf185fd4f23288e0800000000000000
+      internalID: -1692734482637381704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065b9307e4e8daf90800000000000000
+      internalID: -6940734983166642848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c415ccfb706ce280800000000000000
+      internalID: -9012722668637186876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbfa337fea9296f0800000000000000
+      internalID: -679310240558416935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d96803f8b804e0800000000000000
+      internalID: -2015157479290580509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_33
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7769cf3f207ac5d0800000000000000
+      internalID: -3041495250099411073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e9884cbf006f6f0800000000000000
+      internalID: -651332014774378926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_35
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d59aad7566b6780800000000000000
+      internalID: -8688738528564519654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921bba63a98b81d20800000000000000
+      internalID: 3249550103629508905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64b047517961fe60800000000000000
+      internalID: 7994286749075420268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4d873e85b744c30800000000000000
+      internalID: 4342731562395686140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8976be58c20795e0800000000000000
+      internalID: -1903049257935013491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548f6972979d39680800000000000000
+      internalID: -8749410536672266171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f7441688fbd0ff0800000000000000
+      internalID: -68187826872352936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c518c2ea7616470800000000000000
+      internalID: 8386097978909219938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df20fcc464722cd0800000000000000
+      internalID: -2584375259873398830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c08f30e038139e0800000000000000
+      internalID: -1643388292794151864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09568101a2c49e20800000000000000
+      internalID: 3356521619068967180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f4719bd08ce73f0800000000000000
+      internalID: -901062914162077864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_57
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db493598a9a31af0800000000000000
+      internalID: -426810998146905134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_60
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab919308ce5ff520800000000000000
+      internalID: 2738011311610895276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2015-02-26 [DB32](Generic Platformer)(Tileset) 1_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbea4dad2d0b3cbb0800000000000000
+      internalID: -4916891948497457476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

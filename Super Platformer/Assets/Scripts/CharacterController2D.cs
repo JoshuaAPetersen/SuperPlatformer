@@ -12,7 +12,7 @@ public class CharacterController2D : MonoBehaviour
 	[SerializeField] private LayerMask m_WhatIsGround;							// A mask determining what is ground to the character
 	[SerializeField] private Transform m_GroundCheck;							// A position marking where to check if the player is grounded.
 	[SerializeField] private Transform m_CeilingCheck;							// A position marking where to check for ceilings
-	[SerializeField] private Collider2D m_CrouchDisableCollider;				// A collider that will be disabled when crouching
+	[SerializeField] private PolygonCollider2D m_CrouchDisableCollider;				// A collider that will be disabled when crouching
 
 	[SerializeField] private float m_delayGroundCheck = 0.25f;
 
@@ -155,9 +155,6 @@ public class CharacterController2D : MonoBehaviour
 		// Switch the way the player is labelled as facing.
 		m_FacingRight = !m_FacingRight;
 
-		// Multiply the player's x local scale by -1.
-		Vector3 theScale = transform.localScale;
-		theScale.x *= -1;
-		transform.localScale = theScale;
+		transform.Rotate(0f, 180f, 0f);
 	}
 }

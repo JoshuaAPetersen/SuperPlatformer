@@ -27,22 +27,22 @@ public class PlayerMovement : MonoBehaviour
             animator.SetBool("IsJumping", true);
             jump = true;
         }
-        if(Input.GetButtonDown("Crouch"))
-        {
-            crouch = true;
-        } else if(Input.GetButtonUp("Crouch"))
-        {
-            crouch = false;
-        }
+        // if(Input.GetButtonDown("Crouch"))
+        // {
+        //     crouch = true;
+        // } else if(Input.GetButtonUp("Crouch"))
+        // {
+        //     crouch = false;
+        // }
     }
 
     public void OnLanding() 
     {
         animator.SetBool("IsJumping", false);
     }
-    public void OnCrouching(bool isCrouching) {
-        animator.SetBool("IsCrouching", isCrouching);
-    }
+    // public void OnCrouching(bool isCrouching) {
+    //     animator.SetBool("IsCrouching", isCrouching);
+    // }
     void FixedUpdate() {
         // Move the character
         // Move holds (Direction, Crouch, Jump)
