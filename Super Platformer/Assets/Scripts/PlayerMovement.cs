@@ -12,13 +12,11 @@ public class PlayerMovement : MonoBehaviour
     public float runSpeed = 40f;
     bool jump = false;
     bool crouch = false;
-    [SerializeField] GameObject die;
-    Transform player;
+    [SerializeField] GameObject pDie;
     // Start is called before the first frame update
     void Start()
     {
-        player.transform.position = this.transform.position;
-        player.transform.rotation = this.transform.rotation;
+        
     }
 
     // Update is called once per frame
@@ -54,9 +52,11 @@ public class PlayerMovement : MonoBehaviour
         jump = false;
     }
     void OnTriggerEnter2D(Collider2D other) {
+            // player.transform.position = this.transform.position;
+            // player.transform.rotation = this.transform.rotation;
         if(other.tag == "Enemy"){
             Destroy(gameObject);
-            Instantiate(gameObject, player.position, player.rotation);
+            Instantiate(pDie, this.transform.position, Quaternion.identity);
         }
     }
 }

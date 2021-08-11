@@ -14,6 +14,6 @@ public class EnemyHp : MonoBehaviour
     }
     void Die(){
         Destroy(gameObject);
-        Instantiate(death, transform.position, Quaternion.identity);
+        Instantiate(death, transform.position, transform.rotation);
     }
 }
