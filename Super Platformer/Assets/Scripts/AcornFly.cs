@@ -17,6 +17,11 @@ public class AcornFly : MonoBehaviour
             Destroy(gameObject);
             enemy.TakeDamage(damage);
         }
+        // BossHp boss = hitInfo.GetComponent<BossHp>();
+        // if(boss != null){
+        //     Destroy(gameObject);
+        //     boss.TakeDamage(damage);
+        // }
     }
 
 }

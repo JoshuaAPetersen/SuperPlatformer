@@ -21,6 +21,10 @@ public class PlayerController : MonoBehaviour
             rb.AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
             animator.SetBool("IsJumping", true);
         }
+        if(Mathf.Abs(rb.velocity.y) < 0.0001f){
+            
+            animator.SetBool("IsJumping", false);
+        }
     }
 
     private void Flip()

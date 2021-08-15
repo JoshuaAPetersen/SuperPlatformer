@@ -6,12 +6,16 @@ public class Weapon : MonoBehaviour
 {
     [SerializeField] Transform firePoint;
     [SerializeField] GameObject acorn;
+    [SerializeField] float fireRate = 0.5f;
+    [SerializeField] float cooldown = 0.5f;
 
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetButtonDown("Fire1")){
+        fireRate -= 1 * Time.deltaTime;
+        if(Input.GetButtonDown("Fire1") && fireRate <= 0){
             Shoot();
+            fireRate = cooldown;
         }
     }
     void Shoot(){

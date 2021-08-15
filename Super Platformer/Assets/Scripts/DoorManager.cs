@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DoorManager : MonoBehaviour
 {
-   [SerializeField] GameObject door;
+   [SerializeField] GameObject enableDoor;
     [SerializeField] bool doorOn = false;
     // Start is called before the first frame update
     void Start()
@@ -16,10 +16,10 @@ public class DoorManager : MonoBehaviour
     void Update()
     {
     }
-    void OnTriggerEnter2D(){
-        if (doorOn == false){
-            door.SetActive(true);
+    void OnTriggerEnter2D(Collider2D other){
+        if (other.tag == "Player" && doorOn == false){
+            Destroy(gameObject);
+            enableDoor.SetActive(true);
         }
-
     }
 }

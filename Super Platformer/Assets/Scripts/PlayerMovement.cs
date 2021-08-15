@@ -13,6 +13,7 @@ public class PlayerMovement : MonoBehaviour
     bool jump = false;
     bool crouch = false;
     [SerializeField] GameObject pDie;
+    [SerializeField] GameObject deadScreen;
     // Start is called before the first frame update
     void Start()
     {
@@ -57,6 +58,15 @@ public class PlayerMovement : MonoBehaviour
         if(other.tag == "Enemy"){
             Destroy(gameObject);
             Instantiate(pDie, this.transform.position, Quaternion.identity);
+            deadScreen.SetActive(true);
+        }
+        if(other.tag == "Boss"){
+            Destroy(gameObject);
+            Instantiate(pDie, this.transform.position, Quaternion.identity);
+            deadScreen.SetActive(true);
+        }
+        if (other.tag == "Acorn"){
+            Destroy(other.gameObject);
         }
     }
 }
