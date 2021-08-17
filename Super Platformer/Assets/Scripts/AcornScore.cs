@@ -15,8 +15,6 @@ public class AcornScore : MonoBehaviour
         if(instance == null){
             instance = this;
         }
-        score = currentScore;
-        currentScore = score;
     }
 
     public void ChangeScore(float acornValue){

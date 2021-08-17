@@ -120,7 +120,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 10
-  death: {fileID: 5817326813308112302, guid: b34d0356002b7e2489b0802310ecf4e5, type: 3}
+  death: {fileID: 3816049674811078886, guid: c69a4eb416aa87d40b1f91a77053d905, type: 3}
+  deathSpawns: 1
 --- !u!114 &301576154520948753
 MonoBehaviour:
   m_ObjectHideFlags: 0

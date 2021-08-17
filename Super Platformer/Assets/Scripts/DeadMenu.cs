@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class DeadMenu : MonoBehaviour
 {
     public void PlayGame(){
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SceneManager.LoadScene("Stage 1");
     }
     public void QuitGame(){
         SceneManager.LoadScene("MainMenu");

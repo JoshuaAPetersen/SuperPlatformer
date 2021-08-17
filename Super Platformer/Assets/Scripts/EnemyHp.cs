@@ -9,7 +9,13 @@ public class EnemyHp : MonoBehaviour
     [SerializeField] float deathSpawns = 1;
     public void TakeDamage(int damage){
         health -= damage;
-        if(health <=0){
+        if(health <= 0){
+            Die();
+        }
+    }
+    void OnTriggerEnter2D(Collider2D other){
+            health -= 10;
+        if(other.tag == "Player" && health <= 0){
             Die();
         }
     }
