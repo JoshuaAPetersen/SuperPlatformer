@@ -26391,6 +26391,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firePoint: {fileID: 1627448704}
   acorn: {fileID: 3430906287974609923, guid: cfe2e3a21ede53647b7f968507796dc7, type: 3}
+  shot: {fileID: 5842249643479926227, guid: 179ccdaa702d15b4d980ddc9621e0d89, type: 3}
   fireRate: 0.5
   cooldown: 0.5
 --- !u!114 &2110790629

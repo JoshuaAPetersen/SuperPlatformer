@@ -37117,6 +37117,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firePoint: {fileID: 520670017}
   acorn: {fileID: 3430906287974609923, guid: cfe2e3a21ede53647b7f968507796dc7, type: 3}
+  shot: {fileID: 5842249643479926227, guid: 179ccdaa702d15b4d980ddc9621e0d89, type: 3}
   fireRate: 0.5
   cooldown: 0.5
 --- !u!114 &955730119
@@ -37341,7 +37342,6 @@ GameObject:
   m_Component:
   - component: {fileID: 956576558}
   - component: {fileID: 956576557}
-  - component: {fileID: 956576556}
   m_Layer: 0
   m_Name: Respawn
   m_TagString: Enemy
@@ -37349,21 +37349,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &956576556
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 956576555}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d277acc6f22aab74fbe83134f3a3af8d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 10
-  death: {fileID: 0}
-  deathSpawns: 1
 --- !u!61 &956576557
 BoxCollider2D:
   m_ObjectHideFlags: 0
